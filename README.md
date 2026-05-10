@@ -25,7 +25,7 @@ The workbook contains three sheets:
 - **offsets** – a derived table that adds a vertical offset to each pulse column so the 80 series stack cleanly when charted; the offset step value in cell A2 can be tuned to adjust the vertical spacing
 - **chart** – the resulting line chart formatted with a black background
 
-A full walkthrough of how the workbook was built is available in the accompanying blog post: [PLACEHOLDER – link to post]
+A full walkthrough of how the workbook was built is available in the accompanying blog post: [simonangling.com/from-a-neutron-star-to-a-record-sleeve/](https://simonangling.com/from-a-neutron-star-to-a-record-sleeve/)
 
 ## Limitations
 
