@@ -47,5 +47,4 @@ The `cp1919.csv` dataset is reproduced under the CC0 licence from the pachadotde
 ## Related
 
 - [simonangling.com](https://simonangling.com) – the blog series this repository accompanies
-- [jonzed.com](https://jonzed.com) – where the t-shirt ended up
 - [pachadotdev/cp1919](https://github.com/pachadotdev/cp1919) – the original R code and dataset
